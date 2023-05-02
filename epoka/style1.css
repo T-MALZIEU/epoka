@@ -1,0 +1,71 @@
+input[type=number] {
+    -moz-appearance: textfield;
+  }
+
+body{
+    font-family: 'arial';
+}
+
+.intro{
+    font-size: 50px;
+    background-color:seagreen;
+  color: white;
+}
+
+.auth{
+  text-align: center;
+
+}
+
+h2{
+  color:royalblue;
+  font-size: 75px;
+  margin-left: -15px;
+  padding-left: 30px;
+  padding-right: 50px;
+  margin-top: -8px;
+  margin-right: -20px;
+  margin-bottom: 15px;
+  font-family: Impact;
+   background-color:black; 
+  /* border: solid 2px black; */
+}
+
+.error{
+  color: white;
+  background-color: red;
+  border: double white 7px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+  text-align: center;
+  margin-bottom: 8px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.missions{
+  text-align: center;
+  /* align-self: center; */
+  margin-left: 25%;
+  margin-bottom: 15px;
+}
+
+a:link{
+color:lightseagreen;
+}
+a:visited{
+color:lightseagreen;
+}
+
+.green{
+  background-color: chartreuse;
+  font-weight: bold;
+}
+
+.red{
+  background-color: crimson;
+  font-weight: bold;
+  color: black;
+}
